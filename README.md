@@ -56,9 +56,9 @@ NOTE: Migrate from Authy: <https://gist.github.com/gboudreau/94bb0c11a6209c82418
 - Source: <https://github.com/AdAway/AdAway>.
 - F-Droid: <https://f-droid.org/en/packages/org.adaway>.
 
-## Brave: Browser with built-in ad-blocker
-- Source: <https://github.com/brave/brave-browser>.
-- Not on F-Droid because is full of binary blobs. Issues to track: <https://github.com/brave/brave-browser/issues/7027>, <https://gitlab.com/fdroid/rfp/-/issues/154>. Alternatively use <https://f-droid.org/de/packages/de.marmaro.krt.ffupdater> to update.
+## Mull: Privacy browser
+- Source: <https://gitlab.com/divested-mobile/mull-fenix>.
+- F-Droid: <https://f-droid.org/en/packages/us.spotco.fennec_dos>.
 
 ## OsmAnd~: Maps
 - Source: <https://github.com/osmandapp/Osmand>.
