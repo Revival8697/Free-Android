@@ -1,15 +1,15 @@
 # Free-Android
 My choices of open-source apps:
 
-# Stores:
-## Obtainium: Get updates from source
+## Stores:
+### Obtainium: Get updates from source
 - Source: https://github.com/ImranR98/Obtainium
 
-## F-Droid Basic:
+### F-Droid Basic:
 - Source: https://gitlab.com/fdroid/fdroidclient
 - F-Droid: https://f-droid.org/en/packages/org.fdroid.basic
 
-## Aurora Store: Play Store replacement
+### Aurora Store: Play Store replacement
 - Source: https://gitlab.com/AuroraOSS/AuroraStore
 - F-Droid: https://f-droid.org/en/packages/com.aurora.store
 
