@@ -1,7 +1,19 @@
 # Free-Android
 My choices of open-source apps:
 
-## Google Play Services replacement: MicroG
+# Stores:
+## Obtainium: Get updates from source
+- Source: https://github.com/ImranR98/Obtainium
+
+## F-Droid Basic:
+- Source: https://gitlab.com/fdroid/fdroidclient
+- F-Droid: https://f-droid.org/en/packages/org.fdroid.basic
+
+## Aurora Store: Play Store replacement
+- Source: https://gitlab.com/AuroraOSS/AuroraStore
+- F-Droid: https://f-droid.org/en/packages/com.aurora.store
+
+## MicroG: Google Play Services replacement
 - Source: https://github.com/microg/GmsCore
 - F-Droid: microG repo: https://microg.org/download.html#F-Droid.repository
 ### Location modules:
@@ -17,9 +29,6 @@ My choices of open-source apps:
 #### Nominatim
 - Source: https://github.com/microg/NominatimGeocoderBackend
 - F-Droid: https://f-droid.org/en/packages/org.microg.nlp.backend.nominatim
-## Play Store replacement: Aurora Store
-- Source: https://gitlab.com/AuroraOSS/AuroraStore
-- F-Droid: https://f-droid.org/en/packages/com.aurora.store
 
 ## OpenCord: Discord client
 - Source: https://github.com/MateriiApps/OpenCord
